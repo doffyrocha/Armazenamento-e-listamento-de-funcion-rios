@@ -1,4 +1,4 @@
-<h1>Ddos de Funcionários🎲</h1>
+<h1>Dados de Funcionários🎲</h1>
   Status :  Concluido✅
   
 *  Trabalhos Simples da faculadade que irei aprimorar cada vez mais.
