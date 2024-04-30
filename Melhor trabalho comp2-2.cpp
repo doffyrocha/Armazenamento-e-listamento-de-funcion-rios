@@ -10,7 +10,7 @@ private:
     float salario;
 
 public:
-    // MÈtodos para acessar os atributos
+    // M√©todos para acessar os atributos
     const char* getNome() const {
         return nome;
     }
@@ -27,15 +27,15 @@ public:
         return dataAdmissao;
     }
 
-    // MÈtodos para modificar os atributos
+    // M√©todos para modificar os atributos
     void setNome(const char* novoNome) {
         strncpy(nome, novoNome, sizeof(nome) - 1);
-        nome[sizeof(nome) - 1] = '\0'; // Garante que a string È terminada corretamente
+        nome[sizeof(nome) - 1] = '\0'; // Garante que a string √© terminada corretamente
     }
 
     void setCPF(const char* novoCPF) {
         strncpy(cpf, novoCPF, sizeof(cpf) - 1);
-        cpf[sizeof(cpf) - 1] = '\0'; // Garante que a string È terminada corretamente
+        cpf[sizeof(cpf) - 1] = '\0'; // Garante que a string √© terminada corretamente
     }
 
     void setSalario(float novoSalario) {
@@ -44,7 +44,7 @@ public:
 
     void setDataAdmissao(const char* novaDataAdmissao) {
         strncpy(dataAdmissao, novaDataAdmissao, sizeof(dataAdmissao) - 1);
-        dataAdmissao[sizeof(dataAdmissao) - 1] = '\0'; // Garante que a string È terminada corretamente
+        dataAdmissao[sizeof(dataAdmissao) - 1] = '\0'; // Garante que a string √© terminada corretamente
     }
 };
 
@@ -84,7 +84,7 @@ void funcionarioCreate() {
 void funcionarioList() {
     printf("\nLista de Funcionarios\n");
     if (contador == 0) {
-        printf("Nenhum funcion·rio cadastrado.\n");
+        printf("Nenhum funcion√°rio cadastrado.\n");
         return;
     }
     for (int i = 0; i < contador; i++) {
