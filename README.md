@@ -6,7 +6,7 @@ Este é um simples programa em C++ que fiz em um trabalho da Faculdade que ofere
 
 O programa oferece as seguintes funcionalidades:
 
-1. **Cadastrar novo funcionário**: Permite ao usuário adicionar um novo funcionário à lista, fornecendo informações como nome, CPF, data de admissão e .
+1. **Cadastrar novo funcionário**: Permite ao usuário adicionar um novo funcionário à lista, fornecendo informações como nome, CPF, data de admissão e Salário.
 
 2. **Procurar funcionário**: Permite ao usuário buscar por um funcionário específico na lista, informando apenas o nome.
 
@@ -22,7 +22,7 @@ Para usar este programa, siga estas etapas simples:
 
 2. **Clone do repositório**: Faça o clone deste repositório para o seu ambiente local usando o comando `git clone`.
 
-3. **Execução do programa**: Navegue até o diretório do projeto no terminal e execute o script.
+3. **Execução do programa**: Navegue até o diretório do projeto no terminal e execute.
 
 
 
