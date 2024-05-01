@@ -6,7 +6,7 @@ Este é um simples programa em C++ que fiz em um trabalho da Faculdade que ofere
 
 O programa oferece as seguintes funcionalidades:
 
-1. **Cadastrar novo funcionário**: Permite ao usuário adicionar um novo funcionário à lista, fornecendo informações como nome, idade e cargo.
+1. **Cadastrar novo funcionário**: Permite ao usuário adicionar um novo funcionário à lista, fornecendo informações como nome, CPF, data de admissão e .
 
 2. **Procurar funcionário**: Permite ao usuário buscar por um funcionário específico na lista, informando apenas o nome.
 
