@@ -1,6 +1,6 @@
 # Banco de Funcionários
 
-Este é um simples programa em Python que fiz em um trabalho da Faculdade que oferece funcionalidades básicas para gerenciar uma lista de funcionários.
+Este é um simples programa em C++ que fiz em um trabalho da Faculdade que oferece funcionalidades básicas para gerenciar uma lista de funcionários.
 
 ## 💼 Funcionalidades
 
@@ -18,7 +18,7 @@ O programa oferece as seguintes funcionalidades:
 
 Para usar este programa, siga estas etapas simples:
 
-1. **Instalação do Python**: Certifique-se de ter o Python instalado em seu computador. 
+1. **Instalação do C++**: Certifique-se de ter o C++ instalado em seu computador. 
 
 2. **Clone do repositório**: Faça o clone deste repositório para o seu ambiente local usando o comando `git clone`.
 
